@@ -16,6 +16,6 @@ Simple deployment with Salt of a dev vm and other machines.
  4. macos setup
  5. apt update and upgrade
  6. dns server
- 7. npm modules : n, angular/cli
+ 7. npm latest, + need modules : n, angular/cli
  
   
